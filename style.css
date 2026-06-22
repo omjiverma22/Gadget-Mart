@@ -1,0 +1,56 @@
+/* General page fonts */
+body {
+    font-family: sans-serif;
+}
+
+/* Single class selector shared by all cards */
+.card {
+    background-color: #cccccc;
+    width: 200px;
+    float: inline-start;
+    border-radius: 2.5rem;
+   
+}
+
+/* Title styling with unique color and size */
+.title {
+    color: #1a252f;
+    font-size: 24px;
+    font-family: serif;
+}
+
+/* Price styling with unique color and size */
+.price {
+    color: #e74c3c;
+    font-size: 18px;
+    font-family: monospace;
+    text-align: center;
+}
+
+.headphones {
+    width: 200px;
+    height: 150px;
+    border-radius: 2.5rem;
+
+}
+.keyboard {
+    width: 200px;
+    height: 170px;
+    border-radius: 1.75rem;
+}
+h1 {
+    color: #e2550f;
+    font-size: 32px;
+    text-align: center;
+
+}
+.title{
+    text-align: center;
+}
+.mouse{
+    width: 200px;
+    height: 120px;
+    border-radius: 1.75rem;
+}
+
+
